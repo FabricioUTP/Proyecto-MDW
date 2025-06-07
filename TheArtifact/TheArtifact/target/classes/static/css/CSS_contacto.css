@@ -1,0 +1,13 @@
+.enlace-destacado {
+    color: #FF6A00;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  
+.enlace-destacado:hover {
+    text-decoration: underline;
+  }
+  
+.sombra {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  }
