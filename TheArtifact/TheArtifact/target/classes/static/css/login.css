@@ -1,0 +1,41 @@
+.titulo-formulario {
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+}
+
+.fondo-login {
+  background-image: url('https://www.titaniumstrength.es/blog/wp-content/uploads/2023/09/2-2-edited.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.btn-inisesion {
+  background-color: #ff6a00;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.texto-iniciar {
+  color: white;
+}
+
+.texto-iniciar a {
+  color: #FF4C4C; /* rojo brillante */
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.texto-iniciar a:hover {
+  color: #ff1a1a; /* rojo más fuerte al pasar el mouse */
+}
+.btn-inisesion:hover {
+  background-color: #e05500; 
+  transform: scale(1.05); 
+  cursor: pointer;
+}
